@@ -1,0 +1,18 @@
+{"properties": [
+  {
+    "name": "currency-service.username",
+    "type": "java.lang.String",
+    "description": "A description for 'currency-service.username'"
+  },
+  {
+    "name": "currency-service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'currency-service.url'"
+  
+  },
+  {
+    "name": "currency-service.key",
+    "type": "java.lang.String",
+    "description": "A description for 'currency-service.key'"
+  }
+]}
